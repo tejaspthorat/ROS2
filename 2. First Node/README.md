@@ -30,7 +30,7 @@ and the following files should be present in your workspace directory
 ```
 ~/ros2_ws$ ls
 build  install  log  src
-``
+```
 Inside the install directory, You will find the local_setup.bash and setup.bash files,
 To activate the local setup:
 ```
